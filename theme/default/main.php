@@ -6,7 +6,7 @@
   <body>
     <div id="fix">
       <span class="left">
-        <?= sizeof(get_venues()); ?> places to pick up good food in Hamburg.
+        <?= sizeof(get_venues()); ?> places to pick up good food in Vienna.
       </span>
       <span class="right">
         <span>By <?= $config['author_link']; ?>. Code available on <a target="_blank" href="https://github.com/janoelze/food-in-x">GitHub</a>.</span>
