@@ -80,10 +80,10 @@
     array(
       'name'        => 'ON',
       'description' => 'Asian fusion. Delicious sashimi.',
-      'address'     => 'Favoritenstrasse 4-6, 1040 Wien',
+      'address'     => 'Wehrgasse 8, 1050 Wien',
       'price'       => 3,
       'best_for'    => 'Dinner',
-      'url'         => 'http://www.kaffeefabrik.at',
+      'url'         => 'http://www.restaurant-on.at',
       'type'        => 'Asian',
     )
   );
