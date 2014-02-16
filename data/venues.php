@@ -85,6 +85,15 @@
       'best_for'    => 'Dinner',
       'url'         => 'http://www.restaurant-on.at',
       'type'        => 'Asian',
+    ),
+    array(
+      'name'        => 'Die Burgermacher',
+      'description' => 'Great burgers with organic ingredients and an amazing collection of Austrian beer. Try Freist&auml;dter, it\'s Austrias finest beer.',
+      'address'     => 'Burggasse 12, 100 Wien',
+      'price'       => 2,
+      'best_for'    => 'Dinner',
+      'url'         => 'http://www.dieburgermacher.at',
+      'type'        => 'Burger',
     )
   );
 
