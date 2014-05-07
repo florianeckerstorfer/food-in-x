@@ -103,6 +103,15 @@
       'best_for'    => 'Dinner',
       'url'         => 'http://www.sestante.at',
       'type'        => 'Italian',
+    ),
+    array(
+      'name'        => 'Woracziczky',
+      'description' => 'One of the best places where you can get modern Austrian and Viennese cuisine.',
+      'address'     => 'Spengergasse 52, 1050 Wien',
+      'price'       => 4,
+      'best_for'    => 'Dinner',
+      'url'         => 'http://www.woracziczky.at',
+      'type'        => 'Austrian',
     )
   );
 
