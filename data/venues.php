@@ -94,6 +94,15 @@
       'best_for'    => 'Dinner',
       'url'         => 'http://www.dieburgermacher.at',
       'type'        => 'Burger',
+    ),
+    array(
+      'name'        => 'Il Sestante',
+      'description' => 'Probably the best pizza you can eat in Vienna. Made in a wood-burning oven with buffalo mozzarella.',
+      'address'     => 'Piaristengasse 50, 1080 Wien',
+      'price'       => 2,
+      'best_for'    => 'Dinner',
+      'url'         => 'http://www.sestante.at',
+      'type'        => 'Italian',
     )
   );
 
